@@ -58,17 +58,12 @@ I enabled many to one relationship and cross filter direction from the destinati
 ## This dashboard contains
 <br>
 
-![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
-
-
 Which contains 5 main visuals, 4 cards and 3 slicers
 ### The cards shows:
 - The Average value of P.M 2.5
 - The Average Temperature Value
 - The average Value of precipitation per hour (average of both average of raining hours and average of snowning hours)
-  - Hazardous 
-  - Emergency
-
+- 
 ### The slicers shows:
 - Year Slicer to filter between years
 - Month Slicer to filter between Months
@@ -98,6 +93,7 @@ This will enable the stakeholders know the department that's receiving the most 
 This will enable the stakeholders know the days/ period they are receiving the most requests
 
 
+![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
 ## Findings
 South queens neighborhood had the most requests, with public services department having the most requests.<br>
 While mental and funitures had the most reports.
