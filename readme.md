@@ -92,7 +92,8 @@ This visual will make it easier for the company to know which of the months had 
 This visual shows the number of hours of rainfall and snow by months their by making the company informed on such detail
 <br>
 
-![precipitation](https://user-images.githubusercontent.com/92920156/221431801-cd2e0cb7-75c3-404f-9810-83403b5c2a4c.jpg)
+![precipitation](https://user-images.githubusercontent.com/92920156/221431983-6ff661ee-ca37-4e9f-aa9b-cd8dc9d571bb.jpg)
+
 
 
 - ### Treemap showing the average value of P.M2.5 by climate/weather type
@@ -100,7 +101,8 @@ This visual shows the number of hours of rainfall and snow by months their by ma
 This will enable the stakeholders know which climate/weather has the worst air quality
 <br>
 
-![climate type](https://user-images.githubusercontent.com/92920156/221431846-954f97b5-78b1-42ab-8ee3-44533a496489.jpg)
+
+![climate type](https://user-images.githubusercontent.com/92920156/221432002-529524f6-3162-4ac9-ab76-72037282b09a.jpg)
 
 
 - ### Radar Charts Showing the wind direction 
@@ -108,7 +110,8 @@ This will enable the stakeholders know which climate/weather has the worst air q
 This will enable the stakeholders know which direction of wind affect the air quality positively or negatively.
 <br>
 
-![wind direction](https://user-images.githubusercontent.com/92920156/221431822-a1bc248c-eac4-4fcd-aac0-ea04806e6f8f.jpg)
+![wind direction](https://user-images.githubusercontent.com/92920156/221432014-fce6e380-fa3c-400e-9ae5-de0a54385e2d.jpg)
+
 
 
 ![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
