@@ -37,7 +37,7 @@ The dataset was provided by Mr Olanrewanju <br>
 ## Data Cleaning & Transformation
 ### - Step 1
 After importing the datasets using the import method in power bi:<br>
-Then, the first task i did was to clean the data by renamed columns, converted columns to their right data types. Re formed the time and date column.
+Then, the first task i did was to clean the data by renaming columns, converting columns to their right data types. Reformated the time and date column.
 <br>
 <br/>
 ![power query](https://user-images.githubusercontent.com/92920156/221429895-d072d633-ed98-4587-991f-00177b9f8d55.jpg)
