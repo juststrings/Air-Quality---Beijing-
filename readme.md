@@ -10,7 +10,7 @@ A quick back story; Mr Olanrewanju Oyinbooke posted this challenge on his twitte
 
 # Problem Objective <br>
 
-Analyzing dataset provided, seek insights and make recommendations to achieve the set objectives of a company in the environmental consulting industry which seeking to analyze the air quality in a specific city (Beijing) during hot and cold weather, during high-wind conditions and during precipitation. 
+Analyze the dataset provided, seek insights and make recommendations to achieve the set objectives of a company in the environmental consulting industry which seeking to analyze the air quality in a specific city (Beijing) during hot and cold weather, during high-wind conditions and during precipitation. 
 <br>
 They are majorly interested in making recommendations to the government and businesses in the region on how to mitigate the impact of weather conditions on air quality.  
 
