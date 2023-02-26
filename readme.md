@@ -25,21 +25,8 @@ Notepad<br>
 ---
 
 # Data Sourcing
-The dataset was provided by my we_visualize community leader <br>
-[Kola Ali](https://www.linkedin.com/in/adekolaaliu/) <br>
-## The dataset includes 1 excel sheets;
-- Closed trip list: This iclude more than 7 columns: 
-    - City
-    - Country
-    - Creation Date
-    - CSR priority 
-    - CSR Status
-    - CSR Type
-    - CSR Number
-    - Department
-    - Neighborhood 
-    - Overdue Flag
-    - Date
+The dataset was provided by Mr Olanrewanju <br>
+[Link to dataset](https://www.linkedin.com/in/adekolaaliu/](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data) <br>
 ---
 
 # Data Transformation & Modeling
