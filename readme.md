@@ -56,7 +56,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 
 ---
 
-# Findings and Recommendations 
+# Insights and Recommendations 
 
 ## This dashboard contains
 <br>
@@ -123,18 +123,38 @@ This will enable the stakeholders know Understand how these metrics are distribu
 
 ![matrix](https://user-images.githubusercontent.com/92920156/221432341-ab99ce0e-da50-44b8-99eb-3e2a6e7e4864.jpg)
 
-## Findings
-South queens neighborhood had the most requests, with public services department having the most requests.<br>
-While mental and funitures had the most reports.
+## Insights
+
+The insights discovered are as follows.
+
+With the dataset provided, after carrying out the analysis it was discovered that the winter period had the highest level of P.M 2.5 (103.13Ug/m3) which indicates a bad air quality but cant be considered hazardous because it is lesser than 150 but this value is unhealthy for sensitive groups. (i.e increase in temperature leads to a better air quality on an average)
+
+
+- The analysis also showed that an increase in pressure leads to an increase in the value of P.M 2.5 which means it's leads to a bad air quality. As shown in summer with an least average pressure of 1004.96hPa and a corresponding value of P.M 2.5 to be 82.78.
+- Taking wind directions to consideration the analysis showed that a high value of P.M 2.5 was noticed for winds travelling in Both SW and SE directions.
+- Talking on Precipitation its was shown that, the longer the hours of precipitation the lesser P.M 2.5 value the better the air quality.
+<br>
+
+![insights](https://user-images.githubusercontent.com/92920156/221432714-8026f06f-5bfc-4b0d-832c-bc389f2da250.jpg)
 
 ## Recommendation
-I will recommed the stakeholders to take critical note of department with the most reports and those with the most report over due and compare them with those with lesser report in other to recommed and effective way to reduce the overdue status
-<br><br>
-<img src= "https://user-images.githubusercontent.com/92920156/214137077-99aaa4e8-6833-4339-85df-2c41d7e81412.jpg" width="50%" height="80%"><br>
+After a detailed analysis, Recommendations are as follows.
 
-<img src= "https://user-images.githubusercontent.com/92920156/214137339-3be0293a-97d4-4bb5-83fd-25818c3e575a.jpg" width="50%" height="80%"> <br>
+- Since the analysis showed that winter has the worst air quality especially at night and early in the morning. Residents of Beijing are advised to stay in doors during the said period.
+- Tourist and tourism organizations would be advised to schedule their operations to the summer periods because they have the best quality of air.
+- Government officials in the air quality ministry are advised to carry out a survey to know the reasons why wind moving in the SE and SW direction are direct causation for bad air quality and hereby treats the problems.
+<br>
 
-<img src= "https://user-images.githubusercontent.com/92920156/214137365-bcd16443-8288-4446-9fd1-15b397faefc4.jpg" width="50%" height="80%"> <br>
+![rec](https://user-images.githubusercontent.com/92920156/221432770-96141855-5e58-4bda-9dd0-9c3198cb905a.jpg)
+
+<br>
+
+![dashboard](https://user-images.githubusercontent.com/92920156/221432410-38067697-a9b9-4242-9d0c-f3facd62f0dd.jpg)
+
+<br>
+
+![insights and reco](https://user-images.githubusercontent.com/92920156/221432794-9a4dce3c-7e4b-4ffe-901e-8ff647fc9d36.jpg)
+
 
 
 [Link to live Report](https://app.powerbi.com/view?r=eyJrIjoiNTkxOTcwMDctOWE0Yy00NDBlLTk3MzgtOWI2YjA1ODVjMWRiIiwidCI6Ijg4ZTlhN2RjLTU2MzMtNGM2Ni1iNjZjLTkyZGY1Y2E3NDhmYyJ9&pageName=ReportSection)
