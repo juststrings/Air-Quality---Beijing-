@@ -79,13 +79,13 @@ Which contains 5 main visuals, 4 cards and 3 slicers
 
 - ### The first visual contains an area chats shows the average value of P.M 2.5 per Months
 #### Importance of The visual
-This visual will make it easier for the company to know which off the months had the highest average value of P.M 2.5
+This visual will make it easier for the company to know which of the months had the highest average value of P.M 2.5
 <br>
 
 ![PM 2 5 BY MONTHS](https://user-images.githubusercontent.com/92920156/221430665-40d514ab-b766-4725-bfbb-d18452742475.jpg)
 
 
-- ### Treemap showing the total request by type
+- ### Line Chats showing the hours of precipitation (snow and rain where representended with different lines)
 This visual shows the number of request by type
 #### Importance of The visual
 This will enable the stakeholders know the type of request which are being received.
