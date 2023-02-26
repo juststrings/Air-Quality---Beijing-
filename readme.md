@@ -10,8 +10,9 @@ A quick back story Mr Olanrewanju Oyinbooke posted this chanllege on his twitter
 
 # Problem Objective <br>
 
-Data Analysis amd visualization using Power BI<br>
-Creating a Bussiness dashboard that gives the insights on a fictional Customer Support datasets
+Analyzing dataset provided, seek insights and make recommendations to achieve the set objectives of a company in the environmental consulting industry is seeking to analyze the air quality in a specific city during hot and cold weather, during high-wind conditions and during precipitation. 
+<br>
+They are majorly interested in making recommendations to the government and businesses in the region on how to mitigate the impact of weather conditions on air quality.  
 
 ---
 
