@@ -61,7 +61,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 ## This dashboard contains
 <br>
 
-Which contains 5 main visuals, 4 cards and 4 slicers
+5 main visuals, 4 cards and 4 slicers
 ### The cards shows:
 - The Average value of P.M 2.5
 - The Average Temperature Value
