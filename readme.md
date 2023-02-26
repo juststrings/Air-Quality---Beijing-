@@ -177,11 +177,13 @@ After a detailed analysis, Recommendations are as follows.
 
 ## Report Page 1
 <br>
+
 ![dashboard](https://user-images.githubusercontent.com/92920156/221432410-38067697-a9b9-4242-9d0c-f3facd62f0dd.jpg)
 
-<br>
+
 ## Report Page 2
 <br>
+
 ![insights and reco](https://user-images.githubusercontent.com/92920156/221432794-9a4dce3c-7e4b-4ffe-901e-8ff647fc9d36.jpg)
 
 
