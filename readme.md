@@ -74,7 +74,10 @@ Which contains 5 main visuals, 4 cards and 3 slicers
 - Month Slicer to filter between Months
 - Time period within a day to filter between periods
  <br>
-![filters and cards](https://user-images.githubusercontent.com/92920156/221430335-2c8a38d1-b837-4b5e-9328-ac637295eb4e.jpg)
+
+![filters and cards](https://user-images.githubusercontent.com/92920156/221430407-f03e0e29-cc0b-4cb0-b715-cb37664199f3.jpg)
+
+
 <br>
 ### Now to the Visuals
 - ### The first visual contains a bar charts showing thetotal request by neighborhood.
