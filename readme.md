@@ -58,7 +58,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 ## This dashboard contains
 <br>
 
-Which contains 5 main visuals, 4 cards and 3 slicers
+Which contains 5 main visuals, 4 cards and 4 slicers
 ### The cards shows:
 - The Average value of P.M 2.5
 - The Average Temperature Value
@@ -68,9 +68,11 @@ Which contains 5 main visuals, 4 cards and 3 slicers
 - Year Slicer to filter between years
 - Month Slicer to filter between Months
 - Time period within a day to filter between periods
+- Air quaity slicer to filter within the groups of air quality 
  <br>
 
-![filters and cards](https://user-images.githubusercontent.com/92920156/221430407-f03e0e29-cc0b-4cb0-b715-cb37664199f3.jpg)
+![filters](https://user-images.githubusercontent.com/92920156/221431594-9559bb7d-19fa-4eda-ac05-7f79502d927c.jpg)
+
 
 
 <br>
@@ -86,17 +88,27 @@ This visual will make it easier for the company to know which of the months had 
 
 
 - ### Line Chats showing the hours of precipitation (snow and rain where representended with different lines)
-This visual shows the number of request by type
 #### Importance of The visual
-This will enable the stakeholders know the type of request which are being received.
+This visual shows the number of hours of rainfall and snow by months their by making the company informed on such detail
+<br>
 
-- ### Pie chart showing the no of request by department
-#### Importance of The visual
-This will enable the stakeholders know the department that's receiving the most requests.
+![precipitation](https://user-images.githubusercontent.com/92920156/221431801-cd2e0cb7-75c3-404f-9810-83403b5c2a4c.jpg)
 
-- ### Bar Charts Showing the number of request by day
+
+- ### Treemap showing the average value of P.M2.5 by climate/weather type
 #### Importance of The visual
-This will enable the stakeholders know the days/ period they are receiving the most requests
+This will enable the stakeholders know which climate/weather has the worst air quality
+<br>
+
+![climate type](https://user-images.githubusercontent.com/92920156/221431846-954f97b5-78b1-42ab-8ee3-44533a496489.jpg)
+
+
+- ### Radar Charts Showing the wind direction 
+#### Importance of The visual
+This will enable the stakeholders know which direction of wind affect the air quality positively or negatively.
+<br>
+
+![wind direction](https://user-images.githubusercontent.com/92920156/221431822-a1bc248c-eac4-4fcd-aac0-ea04806e6f8f.jpg)
 
 
 ![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
