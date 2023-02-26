@@ -156,6 +156,7 @@ After a detailed analysis, Recommendations are as follows.
  - P.M 2.5 (101-150) = USG (Unhealthy for sensitive groups); 
  - P.M 2.5 (150 upward) = Hazardous.
  <br>
+ 
  ![dax air](https://user-images.githubusercontent.com/92920156/221433389-c692501b-6c34-433a-ad14-d2ce51c10e47.jpg)
 
 - Climate / Weather is being calculated based on temperature. (Months werent used because some temperature ranges of weather types fall within same months)
@@ -163,6 +164,7 @@ After a detailed analysis, Recommendations are as follows.
  -  Temperature (25 and less) = Autumn (Notes Autumn and spring have same temperature range)
  -  Temperature (greater than 25) = Summer
 <br>
+
 ![dax climate](https://user-images.githubusercontent.com/92920156/221433404-66b677f8-5696-40ed-8a77-ef35913a2549.jpg)
 
 - Time Periods were divided based on
