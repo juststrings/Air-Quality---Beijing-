@@ -77,9 +77,13 @@ Which contains 5 main visuals, 4 cards and 3 slicers
 
 ### Now to the Visuals
 
-- ### The first visual contains a bar charts showing thetotal request by neighborhood.
+- ### The first visual contains an area chats shows the average value of P.M 2.5 per Months
 #### Importance of The visual
-This visual will make its easier for the decision makers to know the neighbourhood with the most request.
+This visual will make it easier for the company to know which off the months had the highest average value of P.M 2.5
+<br>
+
+![PM 2 5 BY MONTHS](https://user-images.githubusercontent.com/92920156/221430665-40d514ab-b766-4725-bfbb-d18452742475.jpg)
+
 
 - ### Treemap showing the total request by type
 This visual shows the number of request by type
