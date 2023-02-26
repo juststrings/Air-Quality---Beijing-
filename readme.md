@@ -65,8 +65,9 @@ Which contains 5 main visuals, 4 cards and 4 slicers
 ### The cards shows:
 - The Average value of P.M 2.5
 - The Average Temperature Value
+- The Average Pressure Value
 - The average Value of precipitation per hour (average of both average of raining hours and average of snowning hours)
-- 
+
 ### The slicers shows:
 - Year Slicer to filter between years
 - Month Slicer to filter between Months
