@@ -26,7 +26,7 @@ Notepad<br>
 
 # Data Sourcing
 The dataset was provided by Mr Olanrewanju <br>
-[Link to dataset](https://www.linkedin.com/in/adekolaaliu/](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data) <br>
+[Link to dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data) <br>
 ---
 
 # Data Transformation & Modeling
