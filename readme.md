@@ -34,10 +34,10 @@ The dataset was provided by Mr Olanrewanju <br>
 ## Data Cleaning & Transformation
 ### - Step 1
 After importing the datasets using the import method in power bi:<br>
-Then, the first task i did was to clean the data by renaming misspelt values in columns, changing data-types and splitting the date-time columns (in tables that had them) to increase performance.<br>
-I also created 
+Then, the first task i did was to clean the data by renamed columns, converted columns to their right data types. Re formed the time and date column.
+<br>
 <br/>
-![{A1E47CDE-A1CE-4396-837E-87C9E33EFCD6} png](https://user-images.githubusercontent.com/92920156/214124801-afb0d284-862a-4d20-a70e-d8b8ad27a625.jpg)
+![power query](https://user-images.githubusercontent.com/92920156/221429895-d072d633-ed98-4587-991f-00177b9f8d55.jpg)
 
 
 ### - Step 2
@@ -48,25 +48,34 @@ I also disabled power bi's defualt date table by setting my created table as my 
 I enabled many to one relationship and cross filter direction from the destination table (fact table) to other tables using their respective keys.
 <br>
 <br>
-![model](https://user-images.githubusercontent.com/92920156/194776944-7cab5945-3346-414e-9f5a-8e61d43288d4.jpg)
+
+![modelling](https://user-images.githubusercontent.com/92920156/221429968-3b8f1b8c-67a2-4e6d-9883-81e783037f27.jpg)
 
 ---
 
 # Findings and Recommendations 
 
 ## This dashboard contains
-Which contains 5 main visuals, 5 cards and 1 slicers
+<br>
+
+![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
+
+
+Which contains 5 main visuals, 4 cards and 3 slicers
 ### The cards shows:
-- The Total Request
-- Customer report by priority
-  - Standard
+- The Average value of P.M 2.5
+- The Average Temperature Value
+- The average Value of precipitation per hour (average of both average of raining hours and average of snowning hours)
   - Hazardous 
   - Emergency
 
 ### The slicers shows:
 - Year Slicer to filter between years
-- Status Slicer to filter overdue and under due customer report
-
+- Month Slicer to filter between Months
+- Time period within a day to filter between periods
+ <br>
+![filters and cards](https://user-images.githubusercontent.com/92920156/221430335-2c8a38d1-b837-4b5e-9328-ac637295eb4e.jpg)
+<br>
 ### Now to the Visuals
 - ### The first visual contains a bar charts showing thetotal request by neighborhood.
 #### Importance of The visual
