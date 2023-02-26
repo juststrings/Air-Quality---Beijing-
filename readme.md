@@ -22,8 +22,8 @@ Power Bi<br>
 Excel<br>
 Notepad<br>
 
+![dashboard](https://user-images.githubusercontent.com/92920156/221432410-38067697-a9b9-4242-9d0c-f3facd62f0dd.jpg)
 
-![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
 
 ---
 
