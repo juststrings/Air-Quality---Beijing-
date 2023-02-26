@@ -74,7 +74,9 @@ Which contains 5 main visuals, 4 cards and 3 slicers
 
 
 <br>
+
 ### Now to the Visuals
+
 - ### The first visual contains a bar charts showing thetotal request by neighborhood.
 #### Importance of The visual
 This visual will make its easier for the decision makers to know the neighbourhood with the most request.
