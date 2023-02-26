@@ -149,10 +149,39 @@ After a detailed analysis, Recommendations are as follows.
 
 <br>
 
+## Notes
+- Air quality is being calculated based on the P.M 2.5 Reading.  With her ranges represented as follows,
+ - P.M 2.5 (50 and less) = Good;
+ - P.M 2.5 (51 -100) = Moderate; 
+ - P.M 2.5 (101-150) = USG (Unhealthy for sensitive groups); 
+ - P.M 2.5 (150 upward) = Hazardous.
+ <br>
+ ![dax air](https://user-images.githubusercontent.com/92920156/221433389-c692501b-6c34-433a-ad14-d2ce51c10e47.jpg)
+
+- Climate / Weather is being calculated based on temperature. (Months werent used because some temperature ranges of weather types fall within same months)
+ -  Temperature (9 and less) = Winter
+ -  Temperature (25 and less) = Autumn (Notes Autumn and spring have same temperature range)
+ -  Temperature (greater than 25) = Summer
+<br>
+![dax climate](https://user-images.githubusercontent.com/92920156/221433404-66b677f8-5696-40ed-8a77-ef35913a2549.jpg)
+
+- Time Periods were divided based on
+ - Early Morning = 12am - 6am
+ - Morning = 7am - Noon
+ - Afternoon = 1pm- 4pm
+ - Evening = 5pm - 8pm
+ - Night = 8pm - 11pm
+<br>
+
+![time groups](https://user-images.githubusercontent.com/92920156/221433426-6227ab7f-718b-4845-8236-832ba231da02.jpg)
+
+## Report Page 1
+<br>
 ![dashboard](https://user-images.githubusercontent.com/92920156/221432410-38067697-a9b9-4242-9d0c-f3facd62f0dd.jpg)
 
 <br>
-
+## Report Page 2
+<br>
 ![insights and reco](https://user-images.githubusercontent.com/92920156/221432794-9a4dce3c-7e4b-4ffe-901e-8ff647fc9d36.jpg)
 
 
