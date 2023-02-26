@@ -83,6 +83,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 
 ### Now to the Visuals
 
+---
 - ### The first visual contains an area chats shows the average value of P.M 2.5 per Months
 #### Importance of The visual
 This visual will make it easier for the company to know which of the months had the highest average value of P.M 2.5
@@ -90,6 +91,8 @@ This visual will make it easier for the company to know which of the months had 
 
 ![PM 2 5 BY MONTHS](https://user-images.githubusercontent.com/92920156/221430665-40d514ab-b766-4725-bfbb-d18452742475.jpg)
 
+---
+---
 
 - ### Line Chats showing the hours of precipitation (snow and rain where representended with different lines)
 #### Importance of The visual
@@ -98,7 +101,8 @@ This visual shows the number of hours of rainfall and snow by months their by ma
 
 ![precipitation](https://user-images.githubusercontent.com/92920156/221431983-6ff661ee-ca37-4e9f-aa9b-cd8dc9d571bb.jpg)
 
-
+---
+---
 
 - ### Treemap showing the average value of P.M2.5 by climate/weather type
 #### Importance of The visual
@@ -108,7 +112,8 @@ This will enable the stakeholders know which climate/weather has the worst air q
 
 ![climate type](https://user-images.githubusercontent.com/92920156/221432002-529524f6-3162-4ac9-ab76-72037282b09a.jpg)
 
-
+---
+---
 - ### Radar Charts Showing the wind direction 
 #### Importance of The visual
 This will enable the stakeholders know which direction of wind affect the air quality positively or negatively.
@@ -116,6 +121,8 @@ This will enable the stakeholders know which direction of wind affect the air qu
 
 ![wind direction](https://user-images.githubusercontent.com/92920156/221432014-fce6e380-fa3c-400e-9ae5-de0a54385e2d.jpg)
 
+---
+---
 
 - ### Matrix Showing the Average pressure, Average  P.M2.5. No of Hours, Average hours of rain and Average hours of snow by Climate Type and Group of Air Quality
 #### Importance of The visual
@@ -124,6 +131,7 @@ This will enable the stakeholders know Understand how these metrics are distribu
 
 ![matrix](https://user-images.githubusercontent.com/92920156/221432341-ab99ce0e-da50-44b8-99eb-3e2a6e7e4864.jpg)
 
+---
 ## Insights
 
 The insights discovered are as follows.
