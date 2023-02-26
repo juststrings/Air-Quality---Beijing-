@@ -1,7 +1,7 @@
 # Introduction
 A quick back story Mr Olanrewanju Oyinbooke posted this chanllege on his twitter handle which I bookmarked and decided to get back to. Here is the analysis I carried out after I cleared the tasks on my table.
-Link to challenge 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Challenge 1: Consider the use case described below and the accompanied data, and carry out a detailed analysis using Microsoft Power BI. This is the only way to convince me how good you are at answering business questions.<a href="https://t.co/FK3SMtDXE7">https://t.co/FK3SMtDXE7</a> <a href="https://twitter.com/hashtag/GitHub4Me?src=hash&amp;ref_src=twsrc%5Etfw">#GitHub4Me</a></p>&mdash; TheOyinbooke (@TheOyinbooke) <a href="https://twitter.com/TheOyinbooke/status/1617455232954269698?ref_src=twsrc%5Etfw">January 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+##Link to challenge 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Challenge 1: Consider the use case described below and the accompanied data, and carry out a detailed analysis using Microsoft Power BI. This is the only way to convince me how good you are at answering business questions.<a href="https://t.co/FK3SMtDXE7">https://t.co/FK3SMtDXE7</a> <a href="https://twitter.com/hashtag/GitHub4Me?src=hash&amp;ref_src=twsrc%5Etfw">#GitHub4Me</a></p>&mdash; TheOyinbooke (@TheOyinbooke) <a href="https://twitter.com/TheOyinbooke/status/1617455232954269698?ref_src=twsrc%5Etfw">January 23, 2023</a></blockquote>
 
 ---
 
