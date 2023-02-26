@@ -113,6 +113,10 @@ This will enable the stakeholders know which direction of wind affect the air qu
 ![wind direction](https://user-images.githubusercontent.com/92920156/221432014-fce6e380-fa3c-400e-9ae5-de0a54385e2d.jpg)
 
 
+- ### Matrix Showing the Average pressure, Average  P.M2.5. No of Hours, Average hours of rain and Average hours of snow by Climate Type and Group of Air Quality
+#### Importance of The visual
+This will enable the stakeholders know which direction of wind affect the air quality positively or negatively.
+<br>
 
 ![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
 ## Findings
