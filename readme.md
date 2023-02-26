@@ -5,7 +5,7 @@ A quick back story Mr Olanrewanju Oyinbooke posted this chanllege on his twitter
 
 ---
 
-# Project Name: Impact of Weather Conditions on Air Quality (How does weather affects Air Quality)
+# Project Name: Impact of Weather Conditions on Air Quality (How does weather affects Air Quality?)
 ---
 
 # Problem Objective <br>
