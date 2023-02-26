@@ -72,7 +72,7 @@ I enabled many to one relationship and cross filter direction from the destinati
 - Year Slicer to filter between years
 - Month Slicer to filter between Months
 - Time period within a day to filter between periods
-- Air quaity slicer to filter within the groups of air quality 
+- Air quaity slicer to filter the groups of air quality 
  <br>
 
 ![filters](https://user-images.githubusercontent.com/92920156/221431594-9559bb7d-19fa-4eda-ac05-7f79502d927c.jpg)
