@@ -22,6 +22,9 @@ Power Bi<br>
 Excel<br>
 Notepad<br>
 
+
+![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
+
 ---
 
 # Data Sourcing
@@ -115,10 +118,11 @@ This will enable the stakeholders know which direction of wind affect the air qu
 
 - ### Matrix Showing the Average pressure, Average  P.M2.5. No of Hours, Average hours of rain and Average hours of snow by Climate Type and Group of Air Quality
 #### Importance of The visual
-This will enable the stakeholders know which direction of wind affect the air quality positively or negatively.
+This will enable the stakeholders know Understand how these metrics are distributed across the climate type and the Group of air quality they fall in.
 <br>
 
-![dashboard](https://user-images.githubusercontent.com/92920156/221430067-348845bf-60f8-4474-b0be-3f61195071b4.jpg)
+![matrix](https://user-images.githubusercontent.com/92920156/221432341-ab99ce0e-da50-44b8-99eb-3e2a6e7e4864.jpg)
+
 ## Findings
 South queens neighborhood had the most requests, with public services department having the most requests.<br>
 While mental and funitures had the most reports.
